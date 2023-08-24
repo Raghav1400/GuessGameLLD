@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Game game =new GuessGame();
         GameRunner runner =new GameRunner(game);
-        runner.run();// this is a runner
+        runner.run(); // what should i do
     }
 }
